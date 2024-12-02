@@ -1,8 +1,4 @@
-# -*- codeing = utf-8 -*-
-# @Time : 2023/10/26 22:58
-# @Author : 李昌杏
-# @File : test.py
-# @Software : PyCharm
+
 import torch
 import torch.utils.data
 from torch import nn
