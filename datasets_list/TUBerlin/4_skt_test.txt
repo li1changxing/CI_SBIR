@@ -1,0 +1,250 @@
+/png_ready/mug/11003.png 0
+/png_ready/mug/11016.png 0
+/png_ready/mug/10986.png 0
+/png_ready/mug/10977.png 0
+/png_ready/mug/11012.png 0
+/png_ready/mug/10995.png 0
+/png_ready/mug/11020.png 0
+/png_ready/mug/10987.png 0
+/png_ready/mug/11034.png 0
+/png_ready/mug/10964.png 0
+/png_ready/trumpet/18882.png 1
+/png_ready/trumpet/18922.png 1
+/png_ready/trumpet/18939.png 1
+/png_ready/trumpet/18902.png 1
+/png_ready/trumpet/18912.png 1
+/png_ready/trumpet/18932.png 1
+/png_ready/trumpet/18930.png 1
+/png_ready/trumpet/18949.png 1
+/png_ready/trumpet/18893.png 1
+/png_ready/trumpet/18957.png 1
+/png_ready/ashtray/627.png 2
+/png_ready/ashtray/573.png 2
+/png_ready/ashtray/591.png 2
+/png_ready/ashtray/562.png 2
+/png_ready/ashtray/615.png 2
+/png_ready/ashtray/639.png 2
+/png_ready/ashtray/598.png 2
+/png_ready/ashtray/604.png 2
+/png_ready/ashtray/612.png 2
+/png_ready/ashtray/618.png 2
+/png_ready/bear (animal)/1254.png 3
+/png_ready/bear (animal)/1227.png 3
+/png_ready/bear (animal)/1215.png 3
+/png_ready/bear (animal)/1205.png 3
+/png_ready/bear (animal)/1257.png 3
+/png_ready/bear (animal)/1243.png 3
+/png_ready/bear (animal)/1279.png 3
+/png_ready/bear (animal)/1210.png 3
+/png_ready/bear (animal)/1230.png 3
+/png_ready/bear (animal)/1274.png 3
+/png_ready/flashlight/6650.png 4
+/png_ready/flashlight/6677.png 4
+/png_ready/flashlight/6651.png 4
+/png_ready/flashlight/6710.png 4
+/png_ready/flashlight/6686.png 4
+/png_ready/flashlight/6662.png 4
+/png_ready/flashlight/6704.png 4
+/png_ready/flashlight/6665.png 4
+/png_ready/flashlight/6645.png 4
+/png_ready/flashlight/6654.png 4
+/png_ready/mouth/10952.png 5
+/png_ready/mouth/10906.png 5
+/png_ready/mouth/10934.png 5
+/png_ready/mouth/10885.png 5
+/png_ready/mouth/10956.png 5
+/png_ready/mouth/10881.png 5
+/png_ready/mouth/10898.png 5
+/png_ready/mouth/10955.png 5
+/png_ready/mouth/10930.png 5
+/png_ready/mouth/10960.png 5
+/png_ready/crocodile/5033.png 6
+/png_ready/crocodile/4988.png 6
+/png_ready/crocodile/5029.png 6
+/png_ready/crocodile/5004.png 6
+/png_ready/crocodile/4992.png 6
+/png_ready/crocodile/5003.png 6
+/png_ready/crocodile/4973.png 6
+/png_ready/crocodile/5027.png 6
+/png_ready/crocodile/5039.png 6
+/png_ready/crocodile/5012.png 6
+/png_ready/tooth/18194.png 7
+/png_ready/tooth/18168.png 7
+/png_ready/tooth/18220.png 7
+/png_ready/tooth/18217.png 7
+/png_ready/tooth/18213.png 7
+/png_ready/tooth/18205.png 7
+/png_ready/tooth/18177.png 7
+/png_ready/tooth/18162.png 7
+/png_ready/tooth/18198.png 7
+/png_ready/tooth/18191.png 7
+/png_ready/palm tree/11390.png 8
+/png_ready/palm tree/11383.png 8
+/png_ready/palm tree/11397.png 8
+/png_ready/palm tree/11368.png 8
+/png_ready/palm tree/11376.png 8
+/png_ready/palm tree/11440.png 8
+/png_ready/palm tree/11433.png 8
+/png_ready/palm tree/11418.png 8
+/png_ready/palm tree/11364.png 8
+/png_ready/palm tree/11427.png 8
+/png_ready/dragon/5747.png 9
+/png_ready/dragon/5714.png 9
+/png_ready/dragon/5748.png 9
+/png_ready/dragon/5694.png 9
+/png_ready/dragon/5729.png 9
+/png_ready/dragon/5691.png 9
+/png_ready/dragon/5727.png 9
+/png_ready/dragon/5753.png 9
+/png_ready/dragon/5755.png 9
+/png_ready/dragon/5686.png 9
+/png_ready/bulldozer/2614.png 10
+/png_ready/bulldozer/2609.png 10
+/png_ready/bulldozer/2597.png 10
+/png_ready/bulldozer/2636.png 10
+/png_ready/bulldozer/2578.png 10
+/png_ready/bulldozer/2626.png 10
+/png_ready/bulldozer/2587.png 10
+/png_ready/bulldozer/2591.png 10
+/png_ready/bulldozer/2607.png 10
+/png_ready/bulldozer/2625.png 10
+/png_ready/book/1978.png 11
+/png_ready/book/2000.png 11
+/png_ready/book/1934.png 11
+/png_ready/book/1996.png 11
+/png_ready/book/1939.png 11
+/png_ready/book/1952.png 11
+/png_ready/book/1947.png 11
+/png_ready/book/1987.png 11
+/png_ready/book/1993.png 11
+/png_ready/book/1967.png 11
+/png_ready/tent/17820.png 12
+/png_ready/tent/17761.png 12
+/png_ready/tent/17792.png 12
+/png_ready/tent/17780.png 12
+/png_ready/tent/17794.png 12
+/png_ready/tent/17824.png 12
+/png_ready/tent/17839.png 12
+/png_ready/tent/17783.png 12
+/png_ready/tent/17791.png 12
+/png_ready/tent/17786.png 12
+/png_ready/cat/3910.png 13
+/png_ready/cat/3872.png 13
+/png_ready/cat/3848.png 13
+/png_ready/cat/3862.png 13
+/png_ready/cat/3905.png 13
+/png_ready/cat/3886.png 13
+/png_ready/cat/3879.png 13
+/png_ready/cat/3859.png 13
+/png_ready/cat/3857.png 13
+/png_ready/cat/3882.png 13
+/png_ready/shoe/14986.png 14
+/png_ready/shoe/15001.png 14
+/png_ready/shoe/14993.png 14
+/png_ready/shoe/15019.png 14
+/png_ready/shoe/15040.png 14
+/png_ready/shoe/15005.png 14
+/png_ready/shoe/15029.png 14
+/png_ready/shoe/15036.png 14
+/png_ready/shoe/14980.png 14
+/png_ready/shoe/14988.png 14
+/png_ready/vase/19254.png 15
+/png_ready/vase/19271.png 15
+/png_ready/vase/19225.png 15
+/png_ready/vase/19276.png 15
+/png_ready/vase/19249.png 15
+/png_ready/vase/19227.png 15
+/png_ready/vase/19240.png 15
+/png_ready/vase/19236.png 15
+/png_ready/vase/19265.png 15
+/png_ready/vase/19238.png 15
+/png_ready/spider/15985.png 16
+/png_ready/spider/15937.png 16
+/png_ready/spider/15932.png 16
+/png_ready/spider/15963.png 16
+/png_ready/spider/15973.png 16
+/png_ready/spider/15972.png 16
+/png_ready/spider/15936.png 16
+/png_ready/spider/15944.png 16
+/png_ready/spider/15983.png 16
+/png_ready/spider/15926.png 16
+/png_ready/screwdriver/14556.png 17
+/png_ready/screwdriver/14507.png 17
+/png_ready/screwdriver/14524.png 17
+/png_ready/screwdriver/14529.png 17
+/png_ready/screwdriver/14488.png 17
+/png_ready/screwdriver/14498.png 17
+/png_ready/screwdriver/14487.png 17
+/png_ready/screwdriver/14547.png 17
+/png_ready/screwdriver/14495.png 17
+/png_ready/screwdriver/14518.png 17
+/png_ready/sea turtle/14602.png 18
+/png_ready/sea turtle/14567.png 18
+/png_ready/sea turtle/14565.png 18
+/png_ready/sea turtle/14633.png 18
+/png_ready/sea turtle/14577.png 18
+/png_ready/sea turtle/14617.png 18
+/png_ready/sea turtle/14629.png 18
+/png_ready/sea turtle/14598.png 18
+/png_ready/sea turtle/14612.png 18
+/png_ready/sea turtle/14622.png 18
+/png_ready/harp/8000.png 19
+/png_ready/harp/7960.png 19
+/png_ready/harp/7925.png 19
+/png_ready/harp/7938.png 19
+/png_ready/harp/7980.png 19
+/png_ready/harp/7983.png 19
+/png_ready/harp/7926.png 19
+/png_ready/harp/7993.png 19
+/png_ready/harp/7970.png 19
+/png_ready/harp/7953.png 19
+/png_ready/bench/1624.png 20
+/png_ready/bench/1670.png 20
+/png_ready/bench/1655.png 20
+/png_ready/bench/1619.png 20
+/png_ready/bench/1644.png 20
+/png_ready/bench/1665.png 20
+/png_ready/bench/1610.png 20
+/png_ready/bench/1657.png 20
+/png_ready/bench/1634.png 20
+/png_ready/bench/1641.png 20
+/png_ready/power outlet/12908.png 21
+/png_ready/power outlet/12901.png 21
+/png_ready/power outlet/12937.png 21
+/png_ready/power outlet/12958.png 21
+/png_ready/power outlet/12897.png 21
+/png_ready/power outlet/12916.png 21
+/png_ready/power outlet/12885.png 21
+/png_ready/power outlet/12915.png 21
+/png_ready/power outlet/12887.png 21
+/png_ready/power outlet/12912.png 21
+/png_ready/syringe/17043.png 22
+/png_ready/syringe/17082.png 22
+/png_ready/syringe/17042.png 22
+/png_ready/syringe/17087.png 22
+/png_ready/syringe/17046.png 22
+/png_ready/syringe/17050.png 22
+/png_ready/syringe/17103.png 22
+/png_ready/syringe/17096.png 22
+/png_ready/syringe/17064.png 22
+/png_ready/syringe/17071.png 22
+/png_ready/pickup truck/12376.png 23
+/png_ready/pickup truck/12322.png 23
+/png_ready/pickup truck/12380.png 23
+/png_ready/pickup truck/12398.png 23
+/png_ready/pickup truck/12378.png 23
+/png_ready/pickup truck/12387.png 23
+/png_ready/pickup truck/12399.png 23
+/png_ready/pickup truck/12354.png 23
+/png_ready/pickup truck/12328.png 23
+/png_ready/pickup truck/12372.png 23
+/png_ready/cell phone/3929.png 24
+/png_ready/cell phone/3988.png 24
+/png_ready/cell phone/3940.png 24
+/png_ready/cell phone/3957.png 24
+/png_ready/cell phone/3974.png 24
+/png_ready/cell phone/3960.png 24
+/png_ready/cell phone/3972.png 24
+/png_ready/cell phone/3970.png 24
+/png_ready/cell phone/3987.png 24
+/png_ready/cell phone/3945.png 24

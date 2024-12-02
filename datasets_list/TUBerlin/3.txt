@@ -1,0 +1,25 @@
+blimp
+bicycle
+snowman
+umbrella
+streetlight
+bus
+violin
+trombone
+potted plant
+pretzel
+rooster
+dolphin
+toilet
+dog
+mailbox
+ladder
+pipe (for smoking)
+octopus
+hamburger
+pumpkin
+laptop
+crab
+snake
+toothbrush
+piano

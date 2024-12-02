@@ -1,0 +1,22 @@
+teapot
+soccer ball
+hedgehog
+swan
+zebra
+rhinoceros
+raccoon
+mushroom
+camel
+crocodilian
+tiger
+owl
+windmill
+castle
+dog
+pickup_truck
+motorcycle
+cup
+fan
+bandage
+helicopter
+bread

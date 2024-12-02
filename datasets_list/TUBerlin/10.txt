@@ -1,0 +1,25 @@
+pear
+tv
+candle
+leaf
+carrot
+cow
+bee
+computer-mouse
+pizza
+wheel
+fan
+monkey
+hedgehog
+crane (machine)
+microphone
+rainbow
+snail
+cabinet
+diamond
+banana
+face
+cloud
+bridge
+hand
+ipod

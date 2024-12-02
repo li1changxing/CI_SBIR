@@ -1,0 +1,25 @@
+person walking
+mouse (animal)
+arm
+head
+fire hydrant
+angel
+space shuttle
+hammer
+stapler
+revolver
+bottle opener
+bowl
+nose
+bush
+alarm clock
+zebra
+table
+grenade
+brain
+cup
+crown
+castle
+human-skeleton
+skateboard
+kangaroo

@@ -1,0 +1,22 @@
+duck
+lion
+sink
+apple
+hurricane
+sheep
+bicycle
+bee
+sailboat
+skateboard
+train
+car
+cat
+campfire
+cruise ship
+fire_hydrant
+penguin
+feather
+teddy_bear
+mouse
+cow
+mountain
